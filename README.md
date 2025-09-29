@@ -110,13 +110,10 @@
 ### 参与该项目的开发/工作
 *通过提出 Pull Request 将你的维护添加到下一个版本的更新里并成为这个库的共同维护者*
 
-**[这些issues非常需要您的帮助/贡献](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/issues?q=label%3A%22Need+Help%22+)**
-
 ***
 
 #### 赞助商的广告
 
-[![ads](https://github.com/user-attachments/assets/9fd317b9-33c4-493c-b869-67e1cb6a853c)]([https://ftzaffcom01.fliggyaff.xyz/#/register?code=YKrIkFNJ]).
 
 [[CUTECLOUD](https://ftzaffcom01.fliggyaff.xyz/#/register?code=YKrIkFNJ)] 多年老牌机场，有试用，线路优秀，解锁全面，并提供丰富的共享账户。速度与稳定性很好，Youtube全天8K无压。
 [点击此处或图片直达]([https://ftzaffcom01.fliggyaff.xyz/#/register?code=YKrIkFNJ])
@@ -139,4 +136,3 @@
 
 ***
 
-### 如果你喜欢的话，可以考虑[向我赞助](https://github.com/sponsors/Z-Siqi)
